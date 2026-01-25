@@ -117,7 +117,7 @@ advanced_cart.feature
 Demonstrates looping, conditional logic, and dynamic element handling to add multiple products.
 
 checkout.feature  
-Demonstrates an extended end-to-end flow beyond the original assignment scope to show framework extensibility.
+Demonstrates an extended end-to-end flow to show framework extensibility.
 
 login_and_cart.feature  
 Covers login flow and adding individual products to the cart.
